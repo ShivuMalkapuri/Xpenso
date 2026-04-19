@@ -1,4 +1,4 @@
-# Expenzo – Personal Expense Tracker App (Android + Spring Boot)
+# Expenso – Personal Expense Tracker App (Android + Spring Boot)
 
 **Expenzo** is a full-featured, privacy-focused **daily expense tracking app** built using **Java (Android)** and a **Spring Boot backend**. It helps users seamlessly manage their finances with offline capabilities, insightful charts, and secure data sync.
 ---
@@ -134,6 +134,6 @@ cd backend/
 ---
 
 👤 Author
-Prasann
+Shivanand
 🚀 Passionate Android + Java Developer
-🔗 GitHub: https://github.com/pnd123
+🔗 GitHub: https://github.com/ShivuMalkapuri
